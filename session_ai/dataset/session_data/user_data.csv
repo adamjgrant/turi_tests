@@ -1,0 +1,6 @@
+user_id,median_income,is_in_shopping_mall,is_near_school,is_near_microsoft_store,crime_rate
+Rock,High,false,false,true,23
+Paper,Medium,true,false,true,20
+Scissors,Low,false,true,false,35
+Lizard,Low,false,false,false,18
+Spock,Low,false,false,true,40
